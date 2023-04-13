@@ -7,7 +7,7 @@ Diabetes is one of the most frequent diseases worldwide and the number of diabet
 A few years ago research was done on a tribe in America which is called the Pima tribe (also known as the Pima Indians). In this tribe, it was found that the ladies are prone to diabetes very early. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients were females at least 21 years old of Pima Indian heritage.
 
 ## Objective
-Here, we are analyzing different aspects of Diabetes in the Pima Indian tribe by doing Exploratory Data Analysis.Then build Supervised ML Models(Logistic Regression, Random Forest) and compare the models performance using evaluation metrics.
+Here, we are analyzing different aspects of Diabetes in the Pima Indian tribe by doing Exploratory Data Analysis. Supervised ML Models(Logistic Regression, Random Forest) are built on our dataset for analysis and the models performance are compared using evaluation metrics.
 
 ## Data Dictionary
 Below is the attribute information:
